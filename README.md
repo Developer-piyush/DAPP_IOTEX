@@ -1,7 +1,7 @@
 ## ```"Decentralized Social Network on IoTeX Blockchain."```
 ![iotex](https://github.com/Developer-piyush/DAPP_IOTEX/blob/main/images/IOTEX.png)
 
-[link to app](socialnetwork-ebon.vercel.app)
+[link to app](https://socialnetwork-ebon.vercel.app/)
 ## after confirming transaction, refresh the page.
 ## Instructions to run this app in your local machine
 
