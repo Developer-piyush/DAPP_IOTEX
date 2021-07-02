@@ -4,7 +4,10 @@
 [link to app](socialnetwork-ebon.vercel.app)
 ## after confirming transaction, refresh the page.
 ## Instructions to run this app in your local machine
-
+<hr>
+Change babelrc and env to .babelrc & .env <br>
+fill in private key and infura api key in .env
+<hr>
 Install dependencies
 ```
 npm install
