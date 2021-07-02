@@ -1,7 +1,5 @@
 ## ```"Decentralized Social Network on IoTeX Blockchain."```
-
-
-
+![iotex](https://github.com/Developer-piyush/DAPP_IOTEX/blob/main/images/IOTEX.png)
 
 
 ## Instructions to run this app in your local machine
