@@ -10,6 +10,7 @@ make sure you have some tokens in your metamask wallet (iotex and ropsten)
 Change babelrc and env to .babelrc & .env <br>
 fill in private key and infura api key in .env
 <hr>
+
 Install dependencies
 ```
 npm install
