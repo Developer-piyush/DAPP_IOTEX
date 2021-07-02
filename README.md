@@ -5,6 +5,7 @@
 ## after confirming transaction, refresh the page.
 ## Instructions to run this app in your local machine
 
+<hr>
 make sure you have some tokens in your metamask wallet (iotex and ropsten)
 <hr>
 Change babelrc and env to .babelrc & .env <br>
