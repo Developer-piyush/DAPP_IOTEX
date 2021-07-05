@@ -1,5 +1,5 @@
 # Demo Video: [link](https://youtu.be/G5hruRV4764)
-# App link: [click here]([link to app](https://socialnetwork-ebon.vercel.app/)
+# App link: [click here]((https://socialnetwork-ebon.vercel.app/)
 ## ```"Decentralized Social Network on IoTeX Blockchain."```
 ![iotex](https://github.com/Developer-piyush/DAPP_IOTEX/blob/main/images/IOTEX.png)
 
