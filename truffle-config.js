@@ -24,16 +24,17 @@ module.exports = {
       network_id: 4690,
       skipDryRun: true
     },
-    ropsten: {
+    devmain: {
       provider: function() {
         return new HDWalletProvider(
           privateKeys.split(','), // Array of account private keys
-          `https://ropsten.infura.io/v3/${process.env.INFURA_API_KEY}`// Url to an Ethereum Node
+          `https://babel-api.mainnet.iotex.io`// Url to an Ethereum Node
         )
       },
-      gas: 5000000,
-      gasPrice: 25000000000,
-      network_id: 3
+      gas: 8500000,
+      gasPrice: 1000000000000,
+      network_id: 4689,
+      skipDryRun: true
     }
   },
   contracts_directory: './src/contracts/',
