@@ -49,7 +49,7 @@ class Main extends Component {
                       </li>
                       <li key={key} className="list-group-item py-2">
                         <small className="float-left mt-1 text-muted">
-                          TIPS: {window.web3.utils.fromWei(image.tipAmount.toString(), 'Ether')} ETH
+                          TIPS: {window.web3.utils.fromWei(image.tipAmount.toString(), 'Ether')} IOTX
                         </small>
                         <button
                           className="btn btn-link btn-sm float-right pt-0"
