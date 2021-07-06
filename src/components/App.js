@@ -87,8 +87,8 @@ class App extends Component {
 
       this.setState({ loading: true })
       this.state.decentragram.methods.uploadImage(result[0].hash, description).send({ from: this.state.account }).on('confirmation', (receipt) => {
-        this.setState({ loading: false })
         window.location.reload()
+        this.setState({ loading: false })
       })
     })
   }
@@ -96,8 +96,8 @@ class App extends Component {
   tipImageOwner(id, tipAmount) {
     this.setState({ loading: true })
     this.state.decentragram.methods.tipImageOwner(id).send({ from: this.state.account, value: tipAmount }).on('confirmation', (receipt) => {
-      this.setState({ loading: false })
       window.location.reload()
+      this.setState({ loading: false })
     })
   }
 
