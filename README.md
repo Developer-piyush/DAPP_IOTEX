@@ -4,7 +4,7 @@
 ![iotex](https://github.com/Developer-piyush/DAPP_IOTEX/blob/main/images/IOTEX.png)
 
 
-## after confirming transaction, refresh the page.
+
 ## Instructions to run this app in your local machine
 
 <hr>
