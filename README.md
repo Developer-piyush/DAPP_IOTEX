@@ -33,6 +33,6 @@ truffle migrate --reset --network devmain
 
 To start the server
 ```
-npm run start
+npm run start.
 ```
 starts the server at http://localhost:3000
