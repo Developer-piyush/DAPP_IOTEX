@@ -35,4 +35,4 @@ To start the server
 ```
 npm run start
 ```
-starts the server at http://localhost:30000
+starts the server at http://localhost:3000
