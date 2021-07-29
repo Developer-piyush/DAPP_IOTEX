@@ -1,7 +1,3 @@
-## ```"Decentralized Social Network on IoTeX Blockchain."```
-# Demo Video: [link](https://youtu.be/G5hruRV4764)
-# App link: [click here](https://socialnetwork-ebon.vercel.app/)
-
 ## Instructions to run this app in your local machine
 
 <hr>
